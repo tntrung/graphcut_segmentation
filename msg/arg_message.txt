@@ -1,0 +1,9 @@
+/*
+ * command argument: <binary> <type>
+ *
+ *  <type>: 0 (display GUI for annotation)
+ *          1 (console test)
+ *          2 (display GUI for segmentation)
+ */
+ 
+ 

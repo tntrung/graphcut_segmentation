@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<opencv_storage>
+	<N>1</N>
+	<LAMDA>2</LAMDA>
+	<FEATURES>
+		<FEATURE_1>
+			<CLUSTER_1>5</CLUSTER_1>
+			<DIM_1>3</DIM_1>
+			<SIGMA_1>200</SIGMA_1>
+			<LAMDA_1>2</LAMDA_1>
+			<W_PROB_1>1</W_PROB_1>
+			<W_EXP_1>1</W_EXP_1>
+			<TYPE_1>COLOR</TYPE_1>
+		</FEATURE_1>
+		<FEATURE_2>
+			<CLUSTER_2>5</CLUSTER_2>
+			<DIM_2>18</DIM_2>
+			<SIGMA_2>50000</SIGMA_2>
+			<LAMDA_2>2</LAMDA_2>
+			<W_PROB_2>2</W_PROB_2>
+			<W_EXP_2>3</W_EXP_2>
+			<TYPE_2>HOG</TYPE_2>
+			<SUB_WINDOW_SIZE_2>32</SUB_WINDOW_SIZE_2>
+			<CELL>4</CELL>
+			<BIN>8</BIN>
+			<BLOCK>2</BLOCK>
+			<EPSILON>0.005</EPSILON>
+		</FEATURE_2>			
+	</FEATURES>
+</opencv_storage>
